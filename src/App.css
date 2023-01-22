@@ -100,6 +100,9 @@
 .spoon__img {
   width: 45px;
 }
+.text__center{
+  text-align: center;
+}
 
 @media screen and (min-width: 2000px) {
   .custom__button,
